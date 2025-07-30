@@ -8,15 +8,15 @@
     "owner-verification":"sungdev00@gmail.com",
   
     "env": {
-      "SESSION_ID": {
+      "SESSION_ID": {drakonis~VuswFZjQ#Q4vyFjE7rI4ovpxoAZFa8biY1AmPvBNvZ9_XVsmFMM8
         "description": "Put your SESSION_ID here. It starts with drakonis~",
         "value":"",
         "required": true
         
       },
       
-    "OWNER_NUMBER": {
-      "description": "Enter owner number",
+    "OWNER_NUMBER": {Sukuna 
+      "description": "917319014148",
       "required": false,
       "value": "12363621958"
 
